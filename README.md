@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harry Chen</h1>
-<h3 align="center">A student majoring in Computer Science and Quantitative Science at Emory University | Passionate programmer</h3>
+<h3 align="center">A passionate programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif">
 
 - 🌱 I’m currently learning **AWS**
