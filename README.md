@@ -3,10 +3,13 @@
 <h3 align="center">A student majoring in Computer Science and Quantitative Science at Emory University | Passionate programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif">
 
+- 🌱 I’m currently learning **AWS**
+
 - 📫 How to reach me **harry.chen.chen@emory.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/yuanhanchen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuanhanchen" height="30" width="40" /></a>
 <a href="https://instagram.com/harry____chen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harry____chen" height="30" width="40" /></a>
 </p>
 
