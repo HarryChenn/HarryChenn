@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **harry.chen.chen@emory.edu**
 
+- ⚡ Fun fact **I am friendly and funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuanhanchen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuanhanchen" height="30" width="40" /></a>
