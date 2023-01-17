@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harry Chen</h1>
 <h3 align="center">A passionate programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/TGnuIyFyh-MAAAAC/angry-rick-sanchez.gif">
 
 - 🌱 I’m currently learning **AWS**
 
