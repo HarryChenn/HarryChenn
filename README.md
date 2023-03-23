@@ -3,11 +3,11 @@
 <h3 align="center">A passionate programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/TGnuIyFyh-MAAAAC/angry-rick-sanchez.gif">
 
-- 🌱 I’m currently learning **AWS**
+- I’m currently learning **AWS**
 
-- 📫 How to reach me **harry.chen.chen@emory.edu**
+- How to reach me **harry.chen.chen@emory.edu**
 
-- ⚡ Fun fact **I am friendly and funny**
+- Fun fact **I am friendly and funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
